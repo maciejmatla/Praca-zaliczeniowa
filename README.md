@@ -4,8 +4,10 @@
 
 Projekt polega na zaprojektowaniu aplikacji – gry w wisielca.  
 
-Gra w wisielca to klasyczna gra słowna, w której gracz ma za zadanie odgadnąć ukryte hasło poprzez podawanie pojedynczych liter. 
+Gra w wisielca to klasyczna gra słowna, w której gracz ma za zadanie odgadnąć
+ukryte hasło poprzez podawanie pojedynczych liter. 
 Każda błędna próba zmniejsza liczbę pozostałych szans na wygraną.
+
 
 Projekt koncentruje się na przedstawieniu koncepcji działania gry,
  jej logiki oraz struktury aplikacji.
@@ -96,4 +98,4 @@ Aplikacja została zaimplementowana z wykorzystaniem języka programowania:
 
 ## Maciej Matla
 
-Link do mojego githuba: [https://github.com/maciejmatla](URL)
+Link do mojego githuba: [GitHub](https://github.com/maciejmatla)
