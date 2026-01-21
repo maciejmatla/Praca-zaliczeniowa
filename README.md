@@ -6,10 +6,9 @@ Projekt polega na zaprojektowaniu aplikacji – gry w wisielca.
 
 Gra w wisielca to klasyczna gra słowna.
 
-Gracz ma za zadanie odgadnąć hasło poprzez podawanie liter. 
+Gracz ma za zadanie odgadnąć hasło poprzez podawanie liter.
 
 Każda błędna próba zmniejsza liczbę pozostałych szans na wygraną.
-
 
 Projekt koncentruje się na przedstawieniu koncepcji działania gry,
  jej logiki oraz struktury aplikacji.
