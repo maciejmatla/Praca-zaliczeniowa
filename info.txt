@@ -1,0 +1,21 @@
+Nazwa projektu: Gra w Wisielca
+
+Autor: Maciej Matla
+
+Opis:
+Projekt przedstawia aplikację – grę w wisielca. Celem gry jest
+odgadnięcie losowo wybranego hasła poprzez podawanie pojedynczych
+liter. Każda błędna próba zmniejsza liczbę dostępnych szans na
+ukończenie gry z wynikiem pozytywnym.
+
+Zakres projektu:
+- zaprojektowanie logiki gry
+- opis zasad działania aplikacji
+- przedstawienie struktury programu
+- dokumentacja projektu w repozytorium Git
+
+Funkcjonalności:
+- losowanie hasła z listy słów
+- ukrywanie i odkrywanie liter
+- sprawdzanie poprawności wprowadzonych znaków
+- obsługa wygranej i przegranej
