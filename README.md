@@ -1,4 +1,5 @@
 # Gra w Wisielca
+
 [![Quality Gate](https://github.com/maciejmatla/Praca-zaliczeniowa/actions/workflows/link-checker.yml/badge.svg)](https://github.com/maciejmatla/Praca-zaliczeniowa/actions/workflows/link-checker.yml)
 
 ## Opis projektu
